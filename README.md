@@ -1,0 +1,2 @@
+# CodingExerciseJavaScript
+JavaScript
